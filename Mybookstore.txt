@@ -1,0 +1,14 @@
+Book Name :bangla-2nd-paper
+ID :ban202
+Publishing year :2005
+Edition :7
+Writer Name:Monir-Chowdhury
+Price :1250.00
+
+Book Name :English-2nd-paper
+ID :Eng202
+Publishing year :2011
+Edition :15
+Writer Name:Anik-Hassan
+Price :1650.00
+

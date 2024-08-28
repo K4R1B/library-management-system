@@ -1,0 +1,14 @@
+Book Name :English-2nd-paper
+ID :Eng202
+Publishing year :2011
+Edition :15
+Writer Name:Anik-Hassan
+Price :1650.00
+
+Book Name :cse
+ID :cse115
+Publishing year :2015
+Edition :7
+Writer Name:shahriar-hoiiasi
+Price :1250.00
+
